@@ -1,0 +1,18 @@
+@import "Estilos/variables";
+@import "Estilos/header";
+@import "Estilos/section";
+@import "Estilos/footer";
+@import "Estilos/medias";
+
+* {
+	font-family: 'Ubuntu', sans-serif;
+}
+p{
+	font-size: 17px;
+}
+a:hover {
+	text-decoration: none;
+}
+hr {
+	border: 2px solid #BD7414;
+}

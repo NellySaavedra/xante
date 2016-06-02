@@ -1,0 +1,201 @@
+body {
+	background-color: #E6E3E5;
+}
+.Linea {
+	margin-top: 40px;
+}
+.Mp0 {
+	margin: 0px;
+	.col-md-2 {
+		padding: 0px;
+	}
+}
+.CajaSlider {
+	padding: 2%;
+	margin-top: 2%;
+	.TextSlide {
+		color: #BD7414;
+	}
+	.Logo {
+		width: 15%;
+	}
+}
+.C1 {
+	border-bottom: 10px solid #872B5C;
+}
+.C2 {
+	border-bottom: 10px solid #DA8ACE;
+}
+.C3 {
+	border-bottom: 10px solid #64638C;
+}
+.C4 {
+	border-bottom: 10px solid #B2BAD9;
+}
+.C5 {
+	border-bottom: 10px solid #872B5C;
+}
+.C6 {
+	border-bottom: 10px solid #DA8AC1;
+}
+.C3b {
+	border-top: 10px solid #64638C;
+}
+.BackP1 {
+	background-color: $White !important;
+}
+#Marcador {
+	background-color: $Rosa;
+}
+.LxT {
+	color: #BD7414;
+}
+.PCafe {
+	color: $Cafe;
+}
+.Mtop {
+	margin-top: 35px;
+	input {
+		width: 80%;
+		border: none;
+	}
+	i {
+		width: 20%;
+	}
+}
+.DivValores {
+	width: $ValorImgMax;
+}
+.ImgValores {
+	width: 50%;
+}
+.SubTitle{
+	color: #BD7414;
+}
+h5 {
+	i {
+		margin-left: 40%;
+	}
+}
+.DivImg  {
+	border: 1px solid #F2F2F2;
+	background-color: $White;
+	width: $ValorImgMax;
+	.Img {
+		width: 50%;
+	}
+	iframe {
+		width: $ValorImgMax;
+	}
+}
+.DivImg:hover {
+	background-color: #872B5C;
+	color: $White;
+	.h4text {
+		color:$White;
+	}
+}
+.DivImg2 {
+	width: $ValorImgMax;
+}
+.Img2 {
+	width: $ValorImgMax;
+}
+.CajaGris {
+	padding: $Tres;
+	.CajaIco {
+		width: 20%;
+		display: inline-block;
+	}
+	.CajaText {
+		display: inline-block;
+		border-left: 1px solid #F2F2F2;
+		padding-left: $Tres;
+	}
+
+}
+.DivCatalogo {
+	div {
+		width: 50%;
+		padding: 3%;
+		float: left;
+	}
+	img {
+		width: 100%;
+	}
+}
+.Footer, .row, .col-xs-4, .col-xs-6{
+	margin-top: 1%;
+}
+.Blog {
+	.DivImg {
+		border: none;
+	}
+	h6 {
+		color: #A80000;
+	}
+}
+.TextSub {
+	text-decoration: line-through;
+	color: gray;
+}
+i {
+	color: #64638C;
+	margin-right: 5px;
+}
+/*----------------------------------------------*/
+.h4text {
+	color: #872B5C;
+	font-weight: bold;
+}
+
+
+/*---------------Contacto------------------*/
+.Rgba{
+	background-color: rgba(17, 78, 107, 0.35);
+}
+.BackContacDiv {
+	background-image: url(../images/slider1.jpg);
+	background-position: center;
+	background-size: 100%;
+	background-size: cover;
+	z-index: -100;
+	color: $White;
+}
+.DivRed {
+	width: 80%;
+	background-color: #A70606;
+	color: $White;
+	padding: 5% 0%;
+	margin: 10% 0%;
+	font-family: 'Raleway', sans-serif;
+	font-weight: bold;
+	font-size: 30px;
+}
+ul {
+	list-style: none;
+}
+input, textarea{
+	border-radius: 5px;
+	padding: 4px;
+	border: 1px solid #BDBDBD;
+	color: #BDBDBD;
+	font-weight: bold;
+}
+.input50, .input100 {
+	background-color: gray;
+	padding: 2px;
+}
+.Input50 {
+	width: 46%;
+	margin: 2%;
+}
+.Input100 {
+	width: 96%;
+	margin: 2%;
+	button {
+		padding: 10px;
+		border: none;
+		border-radius: 10px;
+	}
+}

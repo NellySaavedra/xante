@@ -1,0 +1,41 @@
+/*Boton*/
+@mixin border-btn($radius){
+	-webkit-border: $radius;
+	-moz-border: $radius;
+	-ms-border: $radius;
+	-o-border: $radius;
+	border: $radius;
+	padding: $Tres;
+	background-color: #A70606;
+	color: $White;
+	margin: 2px;
+	font-family: 'Open Sans Condensed', sans-serif;
+	font-size: 25px;
+}
+button{
+    @include border-btn(1px solid #A70606);
+    font-family: 'Open Sans Condensed', sans-serif;
+}
+.SubMenus:hover {
+	background-image: url(../ImgXante/Politicas3.jpg);
+	opacity: 0.8;
+	padding: 4px;
+	opacity: 0.1;
+
+}
+.BLess {
+	padding: 10px;
+	border: none;
+	border-radius: 10px;
+}
+.Blue1 {
+ 	background-color: #2E3B45;
+ }
+.Blue2 {
+ 	background-color: #4E6575;
+ }
+.Blue3 {
+ 	background-color: #7BA0BA;
+ }
+
+

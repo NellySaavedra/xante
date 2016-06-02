@@ -1,0 +1,332 @@
+/*------------menu.responsive...............*/
+.Lx {
+  font-size: 25px; }
+
+.navbar-inverse .navbar-brand {
+  color: #FFFFFF; }
+
+.navbar-inverse .navbar-nav > li > a {
+  color: #FFFFFF; }
+
+.navbar {
+  margin-bottom: 0px !important; }
+
+.navbar-inverse {
+  background-color: #5B4134;
+  border-color: #BD7414;
+  border-radius: 0px; }
+
+.navbar-inverse .navbar-nav > li > a:hover {
+  color: #FFFFFF;
+  background-color: #872B5C; }
+
+.navbar-inverse .navbar-toggle {
+  border-color: #FFFFFF;
+  background-color: #0F243D; }
+
+.navbar-inverse .navbar-toggle:focus, .navbar-inverse .navbar-toggle:hover {
+  background-color: #0F2464; }
+
+.navbar-inverse .navbar-collapse, .navbar-inverse .navbar-form {
+  border-color: #0F2464; }
+
+.navbar-inverse .navbar-nav > .active > a {
+  background-color: #7BA7B1; }
+
+.navbar-inverse .navbar-nav > .active > a:hover {
+  background-color: #8B3C98; }
+
+.LiMenu img, .LiMenu i {
+  margin-right: 4px; }
+
+header h6 {
+  padding-top: 8%; }
+
+.MargenLi2 {
+  margin-top: 20px; }
+
+.NavCajaExtra .dropdown-content {
+  width: 300px; }
+
+/*.....Cajas.Dropdown.......*/
+.dropbtn {
+  background-color: #0F243D;
+  color: white;
+  padding: 16px;
+  font-size: 16px;
+  border: none;
+  cursor: pointer; }
+
+.dropdown {
+  position: relative;
+  display: inline-block; }
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  width: 100%;
+  text-align: center; }
+
+.dropdown-content a {
+  color: #FFFFFF;
+  padding: 3% 0%;
+  text-decoration: none;
+  display: block; }
+
+.dropdown-content a:hover {
+  background-color: #2C355C;
+  color: #FFFFFF;
+  margin-right: 0px; }
+
+.dropdown:hover .dropdown-content {
+  display: block; }
+
+.dropdown:hover .dropbtn .Blue1 {
+  background-color: #06104A; }
+.dropdown:hover .dropbtn .Blue2 {
+  background-color: #0C1F8C; }
+.dropdown:hover .dropbtn .Blue3 {
+  background-color: #1537F7; }
+
+.Cart {
+  display: none; }
+
+.collapse:hover .Cart {
+  background-color: transparent !important;
+  display: block;
+  position: absolute;
+  width: 400px;
+  margin: 30px 0px 0px -270px;
+  cursor: pointer; }
+
+body {
+  background-color: #E6E3E5; }
+
+.Linea {
+  margin-top: 40px; }
+
+.Mp0 {
+  margin: 0px; }
+  .Mp0 .col-md-2 {
+    padding: 0px; }
+
+.CajaSlider {
+  padding: 2%;
+  margin-top: 2%; }
+  .CajaSlider .TextSlide {
+    color: #BD7414; }
+  .CajaSlider .Logo {
+    width: 15%; }
+
+.C1 {
+  border-bottom: 10px solid #872B5C; }
+
+.C2 {
+  border-bottom: 10px solid #DA8ACE; }
+
+.C3 {
+  border-bottom: 10px solid #64638C; }
+
+.C4 {
+  border-bottom: 10px solid #B2BAD9; }
+
+.C5 {
+  border-bottom: 10px solid #872B5C; }
+
+.C6 {
+  border-bottom: 10px solid #DA8AC1; }
+
+.C3b {
+  border-top: 10px solid #64638C; }
+
+.BackP1 {
+  background-color: #FFFFFF !important; }
+
+#Marcador {
+  background-color: #872B5C; }
+
+.LxT {
+  color: #BD7414; }
+
+.PCafe {
+  color: #5B4134; }
+
+.Mtop {
+  margin-top: 35px; }
+  .Mtop input {
+    width: 80%;
+    border: none; }
+  .Mtop i {
+    width: 20%; }
+
+.DivValores {
+  width: 100%; }
+
+.ImgValores {
+  width: 50%; }
+
+.SubTitle {
+  color: #BD7414; }
+
+h5 i {
+  margin-left: 40%; }
+
+.DivImg {
+  border: 1px solid #F2F2F2;
+  background-color: #FFFFFF;
+  width: 100%; }
+  .DivImg .Img {
+    width: 50%; }
+  .DivImg iframe {
+    width: 100%; }
+
+.DivImg:hover {
+  background-color: #872B5C;
+  color: #FFFFFF; }
+  .DivImg:hover .h4text {
+    color: #FFFFFF; }
+
+.DivImg2 {
+  width: 100%; }
+
+.Img2 {
+  width: 100%; }
+
+.CajaGris {
+  padding: 3%; }
+  .CajaGris .CajaIco {
+    width: 20%;
+    display: inline-block; }
+  .CajaGris .CajaText {
+    display: inline-block;
+    border-left: 1px solid #F2F2F2;
+    padding-left: 3%; }
+
+.DivCatalogo div {
+  width: 50%;
+  padding: 3%;
+  float: left; }
+.DivCatalogo img {
+  width: 100%; }
+
+.Footer, .row, .col-xs-4, .col-xs-6 {
+  margin-top: 1%; }
+
+.Blog .DivImg {
+  border: none; }
+.Blog h6 {
+  color: #A80000; }
+
+.TextSub {
+  text-decoration: line-through;
+  color: gray; }
+
+i {
+  color: #64638C;
+  margin-right: 5px; }
+
+/*----------------------------------------------*/
+.h4text {
+  color: #872B5C;
+  font-weight: bold; }
+
+/*---------------Contacto------------------*/
+.Rgba {
+  background-color: rgba(17, 78, 107, 0.35); }
+
+.BackContacDiv {
+  background-image: url(../images/slider1.jpg);
+  background-position: center;
+  background-size: 100%;
+  background-size: cover;
+  z-index: -100;
+  color: #FFFFFF; }
+
+.DivRed {
+  width: 80%;
+  background-color: #A70606;
+  color: #FFFFFF;
+  padding: 5% 0%;
+  margin: 10% 0%;
+  font-family: 'Raleway', sans-serif;
+  font-weight: bold;
+  font-size: 30px; }
+
+ul {
+  list-style: none; }
+
+input, textarea {
+  border-radius: 5px;
+  padding: 4px;
+  border: 1px solid #BDBDBD;
+  color: #BDBDBD;
+  font-weight: bold; }
+
+.input50, .input100 {
+  background-color: gray;
+  padding: 2px; }
+
+.Input50 {
+  width: 46%;
+  margin: 2%; }
+
+.Input100 {
+  width: 96%;
+  margin: 2%; }
+  .Input100 button {
+    padding: 10px;
+    border: none;
+    border-radius: 10px; }
+
+footer {
+  background-color: #5B4134;
+  color: #FFFFFF; }
+
+/*Boton*/
+button {
+  -webkit-border: 1px solid #A70606;
+  -moz-border: 1px solid #A70606;
+  -ms-border: 1px solid #A70606;
+  -o-border: 1px solid #A70606;
+  border: 1px solid #A70606;
+  padding: 3%;
+  background-color: #A70606;
+  color: #FFFFFF;
+  margin: 2px;
+  font-family: 'Open Sans Condensed', sans-serif;
+  font-size: 25px;
+  font-family: 'Open Sans Condensed', sans-serif; }
+
+.SubMenus:hover {
+  background-image: url(../ImgXante/Politicas3.jpg);
+  opacity: 0.8;
+  padding: 4px;
+  opacity: 0.1; }
+
+.BLess {
+  padding: 10px;
+  border: none;
+  border-radius: 10px; }
+
+.Blue1 {
+  background-color: #2E3B45; }
+
+.Blue2 {
+  background-color: #4E6575; }
+
+.Blue3 {
+  background-color: #7BA0BA; }
+
+* {
+  font-family: 'Ubuntu', sans-serif; }
+
+p {
+  font-size: 17px; }
+
+a:hover {
+  text-decoration: none; }
+
+hr {
+  border: 2px solid #BD7414; }
+
+/*# sourceMappingURL=main.css.map */
